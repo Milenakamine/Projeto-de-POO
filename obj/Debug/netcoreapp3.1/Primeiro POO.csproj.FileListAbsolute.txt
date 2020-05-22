@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\bin\Debug\netcoreapp3.1\Primeiro POO.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\bin\Debug\netcoreapp3.1\Primeiro POO.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\bin\Debug\netcoreapp3.1\Primeiro POO.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\bin\Debug\netcoreapp3.1\Primeiro POO.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\bin\Debug\netcoreapp3.1\Primeiro POO.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\bin\Debug\netcoreapp3.1\Primeiro POO.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Primeiro POO\obj\Debug\netcoreapp3.1\Primeiro POO.genruntimeconfig.cache
